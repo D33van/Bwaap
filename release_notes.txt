@@ -12,6 +12,8 @@ Number of bugs: > 70
 
 New bugs exploitable on bee-box v1.3:
 
+
+test
 - Heartbleed Vulnerability (OpenSSL)
 - Insecure SNMP configuration
 
